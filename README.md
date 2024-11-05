@@ -1,2 +1,2 @@
-# Computational-Network
+# Computer-Network
 CN Lab outputs
